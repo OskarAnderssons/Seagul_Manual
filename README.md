@@ -9,4 +9,4 @@ PDF:
 
 [Code repository](https://github.com/astromzZ/SeaGul-Sommar-edition)
 
-For markdown see folder manual 
+For markdown see folder manual.

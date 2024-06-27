@@ -1,5 +1,5 @@
 ## Seagul Manual
 
-![Logo](images/SeaGUL-Logga-03.png)
+![Logo](https://raw.githubusercontent.com/OskarAnderssons/SEAGUL_MANUAL/main/images/SeaGUL-Logga-03.png)
 
 

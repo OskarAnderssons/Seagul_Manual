@@ -31,8 +31,7 @@ jobs:
             texlive-lang-english \
             lmodern \
             python3 python3-pip
-
-          # Install Pandoc using Pip 
+            
           pip install pandoc
 
       - name: Build the manual

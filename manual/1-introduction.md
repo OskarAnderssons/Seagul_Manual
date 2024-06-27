@@ -6,4 +6,4 @@ The template expects normal makdown (with pandoc extensions) as an input and gen
 
 ![The Creative Commons Attribution-ShareAlike logo](images/cc-by-sa.png)
 
-Om jag skriver något här, dyker det upp då?
+Om jag skriver något här, dyker det upp då??
